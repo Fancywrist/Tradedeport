@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://weathershopper.pythonanywhere.com/",
+    "viewportHeight": 900,
+    "viewportWidth": 1400,
+    "defaultCommandTimeout": 300000,
+    "pageLoadTimeout": 60000
+    
+}

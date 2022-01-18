@@ -1,0 +1,25 @@
+{
+    "mosturizers":":nth-child(1) > a > .btn",
+    "sunScreens": ".offset-4 > a > .btn",
+    "temp": "#temperature",
+    "moistNumbers":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+    "emptyCart":"#cart",
+    "empty":"Empty",
+    "emmanualAV":":nth-child(3) > :nth-child(1) > .btn",
+    "screenNumbers":"34,35,36,37",
+    "paulMag":"div:nth-of-type(2) > div:nth-of-type(1) > .btn.btn-primary",
+    "item":"item(s)",
+    "viewCart": "button.thin-text.nav-link",
+    "payCard":".stripe-button-el > span",
+    "testMode":"body",
+    "email":"#email",
+    "emailValue":"naboyeji@gmail.com",
+    "cardNumber":"#card_number",
+    "cardValue":"5555558265554449",
+    "Date":"#cc-exp",
+    "dateVAlue":"422",
+    "CVC":"#cc-csc",
+    "cvcValue":"123"
+
+  }
+  
